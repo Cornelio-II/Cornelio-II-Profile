@@ -15,6 +15,6 @@
 - **Mail:** [jun23.llagas@gmail.com](https://mail.google.com/)
 - **Linkedin:** [Cornelio(Timex)LLagas](https://www.linkedin.com/in/cornelio-llagas-42529b186/)
 - **Twitter:**  [@LlagasCornelio](https://x.com/LlagasCornelio).
-- **bsky.app:** [@cornelio30.bsky.social](https://bsky.app/profile/evanyou.me)
+- **bsky.app:** [@cornelio30.bsky.social](https://bsky.app/profile/cornelio30.bsky.social)
 
 
