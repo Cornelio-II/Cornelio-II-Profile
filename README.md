@@ -11,7 +11,7 @@
 - 💬 Ask me about my lifestyle.
 - 😄 Pronouns: English/Filipino native Langauge.
 - ⚡ Fun fact: Talking jokes, playing chess, and reading manga series.
-## 📫 How to reach me: You can contact me through the following account(s);
+## 📫 How to reach me?
 - **Mail:** [jun23.llagas@gmail.com](https://mail.google.com/)
 - **Linkedin:** [Cornelio(Timex)LLagas](https://www.linkedin.com/in/cornelio-llagas-42529b186/)
 - **Twitter:**  [@LlagasCornelio](https://x.com/LlagasCornelio).
