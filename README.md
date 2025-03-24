@@ -1,7 +1,7 @@
 ## Hi👋 I am Cornelio
 
 
-<a href="https://app.daily.dev/timex30"><img src="https://api.daily.dev/devcards/v2/3xDAstONwIZcq77UsiHxP.png?type=default&r=vmp" width="356" alt="Cornelio's Dev Card"/></a>
+<a href="https://app.daily.dev/cornelioii"><img src="https://api.daily.dev/devcards/v2/3xDAstONwIZcq77UsiHxP.png?type=default&r=4ch" width="356" alt="Cornelio's Dev Card"/></a>
 <!--- **Timex29/Timex29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I'm currently working on something cool!
