@@ -5,7 +5,7 @@
 <!--- **Timex29/Timex29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I'm currently working on something cool!
-- 🌱 I'm currently learning with the help of Frontend Mentor - [@Timex29](https://www.frontendmentor.io/profile/Timex29).
+- 🌱 I'm currently learning with the help of Frontend Mentor - [@Cornelio-II](https://www.frontendmentor.io/profile/Cornelio-II).
 - 👯 I’m a frontend developer looking to work at home.
 - 🤔 I've found a useful site to enhance my skills [@dailydotdev](https://dly.to/lJ3cuzdHPKZ).
 - 💬 Ask me about my lifestyle.
